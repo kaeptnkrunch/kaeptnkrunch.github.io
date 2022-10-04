@@ -5,7 +5,11 @@
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/kaeptnkrunch/kaeptnkrunch.github.io?color=04D361&labelColor=000000">
   
   <a href="https://www.linkedin.com/in/stephanlangenau/">
-    <img alt="Made by" src="https://img.shields.io/static/v1?label=made%20by&message=Stephan%20Langenau&color=04D361&labelColor=000000">
+    <img alt="Forked by" src="https://img.shields.io/static/v1?label=forked%20by&message=Stephan%20Langenau&color=04D361&labelColor=000000">
+  </a>
+
+  <a href="https://www.linkedin.com/in/johnggli/">
+    <img alt="Made by" src="https://img.shields.io/static/v1?label=made%20by&message=John%20Emerson&color=04D361&labelColor=000000">
   </a>
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/kaeptnkrunch/kaeptnkrunch.github.io?color=04D361&labelColor=000000">
@@ -60,7 +64,3 @@ Once your pull request has been merged, you can delete your branch.
 ## 📝 License
 
 This project is under the MIT license. See the [LICENSE](LICENSE.md) file for more details.
-
----
-
-Made with ❤️ by John Emerson :wave: [Get in touch](https://johnggli.github.io/linktree)
